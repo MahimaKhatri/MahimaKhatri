@@ -55,11 +55,12 @@ Please feel free to reach out and talk about ideas!
 
  </p>
   </br>
+  <div align="center">
 
 ![Mahima's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahimaKhatri&show_icons=true&theme=radical)
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MahimaKhatri&theme=radical" />
   
-<div align="center">
+
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahimaKhatri&theme=radical)](https://github.com/MahimaKhatri/github-readme-stats)
   
